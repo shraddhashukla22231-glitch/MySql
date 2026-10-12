@@ -8,6 +8,7 @@
 | [0183-customers-who-never-order](https://github.com/shraddhashukla22231-glitch/MySql/tree/master/0183-customers-who-never-order) |
 | [0184-department-highest-salary](https://github.com/shraddhashukla22231-glitch/MySql/tree/master/0184-department-highest-salary) |
 | [0197-rising-temperature](https://github.com/shraddhashukla22231-glitch/MySql/tree/master/0197-rising-temperature) |
+| [0511-game-play-analysis-i](https://github.com/shraddhashukla22231-glitch/MySql/tree/master/0511-game-play-analysis-i) |
 | [0584-find-customer-referee](https://github.com/shraddhashukla22231-glitch/MySql/tree/master/0584-find-customer-referee) |
 | [0595-big-countries](https://github.com/shraddhashukla22231-glitch/MySql/tree/master/0595-big-countries) |
 | [0607-sales-person](https://github.com/shraddhashukla22231-glitch/MySql/tree/master/0607-sales-person) |
