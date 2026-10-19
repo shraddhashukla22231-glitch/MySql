@@ -22,4 +22,5 @@
 | [1667-fix-names-in-a-table](https://github.com/shraddhashukla22231-glitch/MySql/tree/master/1667-fix-names-in-a-table) |
 | [1683-invalid-tweets](https://github.com/shraddhashukla22231-glitch/MySql/tree/master/1683-invalid-tweets) |
 | [1873-calculate-special-bonus](https://github.com/shraddhashukla22231-glitch/MySql/tree/master/1873-calculate-special-bonus) |
+| [1890-the-latest-login-in-2020](https://github.com/shraddhashukla22231-glitch/MySql/tree/master/1890-the-latest-login-in-2020) |
 <!---LeetCode Topics End-->
