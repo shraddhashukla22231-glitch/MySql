@@ -24,6 +24,7 @@
 | [1068-product-sales-analysis-i](https://github.com/shraddhashukla22231-glitch/MySql/tree/master/1068-product-sales-analysis-i) |
 | [1148-article-views-i](https://github.com/shraddhashukla22231-glitch/MySql/tree/master/1148-article-views-i) |
 | [1280-students-and-examinations](https://github.com/shraddhashukla22231-glitch/MySql/tree/master/1280-students-and-examinations) |
+| [1327-list-the-products-ordered-in-a-period](https://github.com/shraddhashukla22231-glitch/MySql/tree/master/1327-list-the-products-ordered-in-a-period) |
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/shraddhashukla22231-glitch/MySql/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
 | [1527-patients-with-a-condition](https://github.com/shraddhashukla22231-glitch/MySql/tree/master/1527-patients-with-a-condition) |
 | [1581-customer-who-visited-but-did-not-make-any-transactions](https://github.com/shraddhashukla22231-glitch/MySql/tree/master/1581-customer-who-visited-but-did-not-make-any-transactions) |
